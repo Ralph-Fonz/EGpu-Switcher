@@ -1,3 +1,9 @@
+# Linux [multi distro] EGPU Switcher Tool
+
+NOTE
+* there are already a few of these around the net.
+* this is to target AMD gpus. there isnt a solution yet
+
 ## Instructions
 
 1) Get Gpu settings
